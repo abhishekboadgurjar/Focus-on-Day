@@ -20,6 +20,7 @@ The **Focus on Day** is a web application designed to help users stay focused on
 - **CSS**: Styles the application to create a clean and responsive design.
 - **JavaScript**: Manages the interactive elements, including task management and progress tracking.
 
+
 ## Project Structure
 
 Here’s an overview of the project structure:
