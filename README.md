@@ -42,7 +42,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Focus-on-Day.git
+    git clone https://github.com/abhishekboadgurjar/Focus-on-Day.git
     ```
 
 2. **Open the project directory**:
@@ -63,7 +63,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Focus on Day project [here](https://abhishekgurjar-in.github.io/Focus-on-Day/).
+You can check out the live demo of the Focus on Day project [here](https://abhishekboadgurjar.github.io/Focus-on-Day/).
 
 ## Screenshots
 ![Screenshot 2024-09-01 225151](https://github.com/user-attachments/assets/6f3f5c20-6a1c-41e2-916c-2efa75e16ebc)
@@ -79,6 +79,6 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
 
